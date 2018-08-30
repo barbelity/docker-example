@@ -3,5 +3,3 @@
 #
 
 From scratch
-ADD hello /
-CMD ["/hello"]
