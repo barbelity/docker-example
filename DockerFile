@@ -2,4 +2,4 @@
 # Example base docker file
 #
 
-From scratch
+FROM ubuntu:14.04
