@@ -1,0 +1,7 @@
+#
+# Example base docker file
+#
+
+From scratch
+ADD hello /
+CMD ["/hello"]
