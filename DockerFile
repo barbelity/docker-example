@@ -2,4 +2,4 @@
 # Example base docker file
 #
 
-FROM alpine
+FROM nginx
